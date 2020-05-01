@@ -2,7 +2,7 @@
 double add(double x,double y){
 	return x+y;
 }
-double sub(double x,double y){
+float sub(float x,float y){
 	return x-y;
 }
 double mul(double x,double y){
