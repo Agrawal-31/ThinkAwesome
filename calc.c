@@ -1,5 +1,5 @@
 #include<stdio.h>
-double add(double x,double y){
+double add(int x,int y){
 	return x+y;
 }
 
